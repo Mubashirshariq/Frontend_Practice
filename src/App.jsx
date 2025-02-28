@@ -8,7 +8,7 @@ import Button1 from "./Button1";
 import BUtton2 from "./Button2";
 import Group45, { Group46, Group47, Group48, Group49 } from "./assets/group";
 import elenaImage from "./assets/elena.png";
-import JohnImage from "./assets/john.png";
+import JohnImage from "./assets/John.png";
 import angrImage from "./assets/angr.png";
 import Arrow, { ArrowLeft } from "./assets/Arrow";
 
